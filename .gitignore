@@ -1,0 +1,10 @@
+node_modules/
+#for don't need for OS
+Thumbs.db
+desktop.ini
+.DS_Store
+#Editor
+.vscode/
+*.log
+#for enveroment
+.env
